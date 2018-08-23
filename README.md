@@ -1,6 +1,6 @@
-# TUDSaT On-Board Computer Hardware
+# TUDSaT Onboard Computer Hardware
 
-This repository contains the Hardware for the On-Board Computer of our CubeSat.
+This repository contains the Hardware for the Onboard Computer of our CubeSat.
 
 ## License
 
